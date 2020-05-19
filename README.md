@@ -8,5 +8,5 @@ Chose an object with five distinct parts and created the model in SolidWorks. Su
 
 To view the model in SolidWorks:
 1. Download the zip file <i>solidworksfiles.zip</i>
-2. Extract the files on local computer
+2. Extract the files onto local computer
 3. Open the file <i>fan_assembly.SLDASM</i>
