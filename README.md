@@ -1,10 +1,11 @@
 # portablefanmodel
-Term project for GC 120: Foundations of Graphics course at North Carolina State University. <br>
-Chose an object with five distinct parts and created the model in SolidWorks. Submitted files include:
-- Technical sketch of challenging part
-- 3D solid models of all parts
-- CAD drawings of 5 parts
-- Assembly & CAD assembly drawing(s)
+Term project for course GC 120: Foundations of Graphics at North Carolina State University.
+
+The assignment is to choose an object with at least five distinct parts and created an assembly model in SolidWorks. Submitted files include:
+- Technical sketch of one part,
+- 3D solid models of all five parts,
+- CAD drawings of all five parts,
+- Assembly model and assembly CAD drawing.
 
 To view the model in SolidWorks:
 1. Download the zip file <i>solidworksfiles.zip</i>
