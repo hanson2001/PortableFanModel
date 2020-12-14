@@ -1,4 +1,4 @@
-# portablefanmodel
+# PortableFanModel
 Term project for course GC 120: Foundations of Graphics at North Carolina State University.
 
 The assignment is to choose an object with at least five distinct parts and created an assembly model in SolidWorks. Submitted files include:
